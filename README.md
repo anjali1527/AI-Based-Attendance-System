@@ -66,7 +66,7 @@ README.md
 
 ### Attendance Marked Successfully
 
-![Attendance Output](screenshots/attendance-output.png)
+![Attendance Output](screenshots/attendance_output.png)
 
 ## Future Enhancements
 
