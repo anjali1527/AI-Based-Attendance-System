@@ -76,7 +76,7 @@ README.md
 * Cloud attendance storage
 * Attendance analytics and reporting
 
-## Author
+## Developer
 
 **Anjali Sharma**
 
